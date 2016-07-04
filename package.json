@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-function-happy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "semistandard with function happiness (without spaces before function paren)",
   "main": "index.js",
   "scripts": {

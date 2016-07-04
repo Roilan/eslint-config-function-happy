@@ -1,11 +1,22 @@
 {
   "name": "eslint-config-function-happy",
   "version": "0.0.1",
-  "description": "semistandard with function happiness (functions without spaces)",
+  "description": "semistandard with function happiness (without spaces before function paren)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Roilan <roilan14@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Roilan/eslint-config-function-happy.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint-config-semistandard": "^6.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^2.13.1",
+    "tape": "^4.6.0"
+  }
 }

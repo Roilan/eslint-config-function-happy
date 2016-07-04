@@ -1,4 +1,4 @@
-# eslint-config-semistandard
+# eslint-config-function-happy
 
 eslint config config for the best of standard/semistandard without space before function paren
 
